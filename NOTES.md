@@ -1,5 +1,9 @@
 # Rust Advent of Code 2019
 
+## helpful snippets
+`cargo run dayX.rs`
+
+
 ## TODO
 - [ ] general input
 - [ ] 
@@ -14,3 +18,6 @@ if terminate with ";" rather than braces
 `use`: brings paths into scope
 
 https://www.reddit.com/r/rust/comments/ahd526/dont_understand_the_module_system/
+
+- 
+

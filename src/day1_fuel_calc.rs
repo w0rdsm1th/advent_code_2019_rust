@@ -77,6 +77,6 @@ Because parse is so general, it can cause problems with type inference. As such,
 - .clone() method
 
 - was using u32 for part 1, but then part 2 introduced negative return values
-thread 'main' panicked at 'attempt to subtract with overflow', src\day1.rs:40:51
+thread 'main' panicked at 'attempt to subtract with overflow', src\day1 - fuel_calc:40:51
 
 */

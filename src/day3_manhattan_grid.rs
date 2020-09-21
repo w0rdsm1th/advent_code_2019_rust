@@ -212,6 +212,8 @@ fn print<'a>(x: &'a i32) {}
 This allows returning references whose lifetime depend on the lifetime of the arguments.......
 ***LISTENING TO THE COMPLILER THIS WAS CAUSE OF DOWNFALL
 
+- primitives can be cloned, types
+
 - overusing vectors and not using Arrays (heterogeneous types, ) or Tuples (homogeneous types, immutable)
 
 - handling lines() and Lines types better
